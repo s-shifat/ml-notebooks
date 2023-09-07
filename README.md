@@ -1,2 +1,3 @@
 # ml-notebooks
-My machine learning notebooks
+
+Collection of my machine learning beginner level notebooks.
